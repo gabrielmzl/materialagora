@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-hero-pattern text-text-primary;
+  -webkit-font-smoothing: antaliased;
+}
